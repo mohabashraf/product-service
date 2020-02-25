@@ -8,11 +8,10 @@
 		<version>2.2.4.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<packaging>jar</packaging>
 	<groupId>com.product</groupId>
-	<artifactId>api</artifactId>
+	<artifactId>util</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>api</name>
+	<name>util</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
@@ -25,5 +24,6 @@
 			<artifactId>spring-boot-starter-webflux</artifactId>
 		</dependency>
 	</dependencies>
+	
 
 </project>
